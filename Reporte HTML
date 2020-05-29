@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Reporte HTML</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+    <center>
+        <h1 style="color:Tomato;">Programacion Orientada a Objetos</h1>
+        <br>
+        <p style="color:blue;">Anahi Perez Juarez</p>
+        <p style="color:blue;">Profesor Jordi Yaromil Cruz Medrano</p>
+        
+    </center>
+    <img src="hmtl.jpeg"  alt="html" style="width:50px;height:60px;">
+    <p>Rules:</p>
+    <ul>
+        <li>Ser puntual</li>
+        <li>Estar aento a la clase de POO</li>
+        <li>No dormirse en clase</li>
+    </ul>
+    <h2>Horario</h2>
+    <table style="width:100%">
+  <tr>
+    <th>Monday</th>
+    <th>Wednesday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td>8:00 am- 9:00am</td>
+    <td>8:00 am- 9:00am</td>
+    <td>8:00 am- 9:00am</td>
+  </tr>
+  <tr>
+    <td>9:00 am- 10:00am</td>
+    <td>9:00 am- 10:00am</td>
+    <td>9:00 am- 10:00am</td>
+  </tr>
+</table>
+
+
+    </body>
+</html>
